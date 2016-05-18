@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2c98da8-db5f-4111-b9a9-2713a8be72af" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/images/login1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/images/modem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/images/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/images/pda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/images/scanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/images/tablet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/images/modem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/images/pda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/images/scanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/images/tablet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/edit_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/edit_remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/filesave.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/filter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/large_chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/large_clipart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/large_picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/large_shapes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/large_smartart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/mini_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/mini_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/mini_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/sum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/tip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icons/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/images/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/images/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/images/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/images/pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/images/radio-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/font-awesome/fonts/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/font-awesome/fonts/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/font-awesome/fonts/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/minimal/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/arch-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/arch-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/autumn-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/boats.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/book-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/business-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/calendar-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/car-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/christmas-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/christmas-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/christmas-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/city-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/city-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/coffee-grass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/coins.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/crayons.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/cupcakes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/eggs-nest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/flower-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/flower-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/flower-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/fountain.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/leaves.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/lichterman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/pinecone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/river-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/river-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/sunset-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/winter-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/winter-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/winter-sun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs-450/woodstump.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/arch-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/arch-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/autumn-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/boats-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/book-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/business-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/calendar-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/car-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/christmas-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/christmas-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/christmas-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/city-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/city-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/coffee-grass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/coins.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/crayons.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/cupcakes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/eggs-nest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/flower-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/flower-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/flower-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/fountain.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/leaves.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/lichterman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/pinecone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/river-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/river-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/sunset-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/winter-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/winter-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/winter-sun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/img/thumbs/woodstump.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/lightbox/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/lightbox/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/lightbox/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/lightbox/img/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader1.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader10.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader11.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader12.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader13.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader14.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader16.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader17.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader2.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader3.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader4.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader5.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader6.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader7.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader8.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/images/loader9.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/csv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/json.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/icon/xml.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/artifacts/teset.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/artifacts/test_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_101tec_zkclient_0_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_druid_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_fastjson_1_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_rocketmq_rocketmq_client_3_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_rocketmq_rocketmq_common_3_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_rocketmq_rocketmq_remoting_3_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_aliyun_openservices_ons_api_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_aliyun_openservices_ons_client_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_atomikos_atomikos_util_3_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_atomikos_transactions_3_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_atomikos_transactions_api_3_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_atomikos_transactions_jdbc_3_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_atomikos_transactions_jta_3_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_foundationdb_fdb_sql_parser_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_github_virtuald_curvesapi_1_03.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_0_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_squareup_okio_okio_1_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_whalin_Memcached_Java_Client_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_pool_commons_pool_1_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__io_netty_netty_all_4_0_34_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_mail_mail_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__joda_time_joda_time_2_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_email_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_freemarker_freemarker_2_3_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_2_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_htmlparser_htmllexer_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_htmlparser_htmlparser_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_caches_mybatis_ehcache_1_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_6_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_integration_spring_integration_core_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_integration_spring_integration_jms_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_session_spring_session_1_1_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jms_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_messaging_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_orm_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__redis_clients_jedis_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/beans/DeptTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/beans/TreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/callback/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/callback/TestCallBack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/enumUtil/TestEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/innerclass/TestInnerclass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/reflection/TestReflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/FileUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/TestCalendar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/TestFunctionParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/TestInput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/TestRandom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/TestSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/TestStringBufferAndString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/TestAbstract.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/TestAbstractChild.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/TestAbstractRealChild.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/TestInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/TestIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/testDoor/AbstractDoor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/testDoor/Alram.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/testDoor/AlramDoor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/testDoor/TestFatherInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/abstractAndInterface/testDoor/TestInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/equalsAndHashcode/RectObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/fangxing/TestContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/fangxing/TestContainerInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/fangxing/TestGeneratorInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/fangxing/extendAndSuper/Food.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/fangxing/impl/TestGeneratorInterfaceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/finalClass/TestChildFinal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/finalClass/TestFinalClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/initializationBlock/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/initializationBlock/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/overriteAndOverload/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/overriteAndOverload/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/test/overriteAndOverload/Triangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/thread/CustomerAndProducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/thread/TestExtendsThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/thread/TestThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/thread/TestWait.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/thread/TestWaitThreadOfConditonOfPrintABC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/thread/ThreadJoinTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/thread/ThreadOfCustomerAndProducer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/timer/TestTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/timer/TestTimerAndScheduledExecutorService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/utils/ConfigProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/utils/ExcelUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/com/yunsuanfu/TestYunsuanfu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/effectiveJava/createOrDestoryObject/AvoidCreateRepeatObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/effectiveJava/singleton/SingleTon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/effectiveJava/staticFactoryMethod/StaticFactoryMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../src/resources/config.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uban-cj.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/css/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/accordion/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/accordion/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/accordion/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/animation/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/animation/fade.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/animation/pop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/animation/slide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/badge/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/badge/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/badge/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/badge/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/button/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/button/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/button/style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/button/switch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/datagrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/datagrid/rowediting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/datalist/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/datalist/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/datalist/selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/dialog/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/dialog/message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/form/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/input/numberspinner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/input/textbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/layout/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/menu/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/menu/menubar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/panel/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/panel/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/panel/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/panel/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/simplelist/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/simplelist/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/simplelist/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/simplelist/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/simplelist/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/tabs/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/tabs/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/tabs/pill.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/toolbar/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/toolbar/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/toolbar/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/tree/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo-mobile/tree/dnd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/expandable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/accordion/tools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/calendar/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/calendar/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/calendar/disabledate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/calendar/firstday.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/calendar/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combo/animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combo/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/combobox_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/combobox_data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/customformat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/dynamicdata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/multiline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/remotedata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combobox/remotejsonp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/initvalue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combogrid/setvalue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combotree/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combotree/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combotree/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combotree/initvalue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combotree/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/combotree/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/aligncolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/cacheeditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/cellediting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/cellstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/clientpagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/columngroup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/complextoolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/contextmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/custompager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/datagrid_data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/formatcolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/frozencolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/frozenrows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/mergecells.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/multisorting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/products.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/rowborder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/rowediting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/rowstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/simpletoolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datagrid/transform.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datalist/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datalist/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datalist/datalist_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datalist/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datalist/multiselect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datalist/remotedata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/clone.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/dateformat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/restrict.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/sharedcalendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datebox/validate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimebox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimebox/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimebox/initvalue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimebox/showseconds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimespinner/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimespinner/clearicon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimespinner/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/datetimespinner/format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/dialog/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/dialog/complextoolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/dialog/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/dialog/toolbarbuttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/draggable/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/draggable/constrain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/draggable/snap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/droppable/accept.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/droppable/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/droppable/sort.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/easyloader/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/filebox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/filebox/buttonalign.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/filebox/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/form/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/form/form_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/form/load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/form/validateonsubmit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/addremove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/autoheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/collapsetitle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/customcollapsetitle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/full.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/nestedlayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/nocollapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/propertygrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/layout/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/iconalign.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/plain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/size.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/linkbutton/toggle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menu/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menu/customitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menu/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menu/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menu/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menubutton/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menubutton/alignment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menubutton/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/menubutton/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/messager/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/messager/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/messager/interactive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/messager/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberbox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberbox/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberbox/format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberbox/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberspinner/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberspinner/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberspinner/increment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/numberspinner/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/pagination/attaching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/pagination/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/pagination/custombuttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/pagination/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/pagination/links.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/pagination/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/customtools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/loadcontent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/nestedpanel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/panel/paneltools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/progressbar/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/progressbar/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/propertygrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/propertygrid/customcolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/propertygrid/groupformat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/propertygrid/propertygrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/resizable/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/searchbox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/searchbox/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/searchbox/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/slider/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/slider/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/slider/formattip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/slider/nonlinear.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/slider/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/slider/rule.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/slider/vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/splitbutton/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/splitbutton/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/switchbutton/action.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/switchbutton/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/autoheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/fixedwidth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/hover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/nestedtabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/striptools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/tabimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/tabposition.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/tabstools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tabs/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/clearicon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/multiline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/textbox/size.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/timespinner/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/timespinner/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/timespinner/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/timespinner/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/_dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/customcontent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/customstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tooltip/tooltipdialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/contextmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/dnd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/editable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/formatting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/lazyload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/lines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/tree/tree_data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/clientpagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/contextmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/editable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/lines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/reports.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/treegrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/treegrid_data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/treegrid/treegrid_data3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/validatebox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/validatebox/customtooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/validatebox/validateonblur.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/window/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/window/customtools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/window/fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/window/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/window/inlinewindow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/window/modalwindow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/demo/window/windowlayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/easyloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/jquery.easyui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/jquery.easyui.mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-cz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-sv_SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/locale/easyui-lang-zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.combobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.combogrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.combotree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.datagrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.datalist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.datebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.datetimebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.datetimespinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.filebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.linkbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.menubutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.messager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.numberbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.numberspinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.propertygrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.searchbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.splitbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.switchbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.textbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.timespinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.treegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.validatebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/plugins/jquery.window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/easyloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.combobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.datebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.linkbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.propertygrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/src/jquery.window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/datalist.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/filebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/numberbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/switchbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/textbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/black/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/datalist.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/filebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/numberbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/switchbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/textbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/bootstrap/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/datalist.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/filebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/numberbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/switchbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/textbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/default/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/datalist.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/filebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/numberbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/switchbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/textbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/gray/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/datalist.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/filebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/numberbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/switchbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/textbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/metro/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/easyui/themes/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/css/themes/style1/pink-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/css/themes/style1/pink-violet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/css/themes/style1/white-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-chartjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-flotchart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-column-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-combinations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-dynamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/charts-highchart-scatter-bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/email-compose-mail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/email-inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/extra-profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/extra-signup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/form-components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/form-dropzone-file-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/form-multiple-file-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/form-validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/form-wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/form-xeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/jplist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/jquery-migrate-1.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/jquery.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/page-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/page-contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/page-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/table-action.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/table-advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/table-datatables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/table-sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-checkbox-radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-dropdown-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-editors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-generals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-nestable-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-notific8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-portlets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-progressbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-toastr-notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/js/ui-treeview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/page-adviser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/page-customer-change.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/page-customer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/DataTables/extensions/TableTools/css/dataTables.tableTools.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/DataTables/extensions/TableTools/js/dataTables.tableTools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/DataTables/jquery.jeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/DataTables/media/css/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/DataTables/media/css/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/DataTables/media/js/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/DataTables/media/js/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/animate.css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-clockface/css/clockface.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-clockface/js/clockface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-colorpicker/css/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-colorpicker/js/bootstrap-colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-datepicker/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-datepicker/css/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-daterangepicker/daterangepicker-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-markdown/css/bootstrap-markdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-markdown/js/bootstrap-markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.1.1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-select/bootstrap-select.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-select/bootstrap-select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-switch/css/bootstrap-switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-switch/js/bootstrap-switch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-timepicker/css/bootstrap-timepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-timepicker/js/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/calendar/zabuto_calendar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/calendar/zabuto_calendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/charCount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/chart.js/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/dropzone/css/dropzone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/dropzone/js/dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.spline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/flot-chart/jquery.flot.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/font-awesome/fonts/iconfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/gmaps/gmaps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/holder/holder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/flat/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/futurico/futurico.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/line/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/minimal/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/polaris/polaris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/iCheck/skins/square/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/intro.js/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/intro.js/introjs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/ion.rangeSlider/css/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/ion.rangeSlider/js/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/css/jplist-custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/js/jplist.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jplist/html/js/vendor/modernizr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-bootstrap-wizard/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-bootstrap-wizard/jquery.bootstrap.wizard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-cookie/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/css/blueimp-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/css/jquery.fileupload-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/css/jquery.fileupload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/cors/jquery.xdr-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.fileupload-audio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.fileupload-image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.fileupload-process.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.fileupload-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.fileupload-validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.fileupload-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.fileupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/jquery.iframe-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/vendor/canvas-to-blob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/vendor/jquery.blueimp-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/vendor/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/vendor/load-image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-file-upload/js/vendor/tmpl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-highcharts/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-highcharts/drilldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-highcharts/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-highcharts/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-highcharts/highchart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-highcharts/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-highcharts/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-maskedinput/jquery-maskedinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-nestable/nestable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-news-ticker/jquery.newsTicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-notific8/jquery.notific8.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-notific8/jquery.notific8.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-notific8/notific8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-pace/pace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-steps/css/jquery.steps.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-steps/js/jquery.steps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-tablesorter/jquery.tablesorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-tablesorter/themes/blue/style-custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-toastr/toastr.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-toastr/toastr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-treetable/javascripts/src/jquery.treetable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-treetable/stylesheets/jquery.treetable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-treetable/stylesheets/jquery.treetable.theme.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-ui-1.10.4.custom/css/ui-lightness/jquery-ui-1.10.4.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jquery-validate/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jstree/dist/jstree.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/jstree/dist/themes/default/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/lightbox/css/lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/lightbox/js/lightbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/metisMenu/jquery.metisMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/mixitup/src/jquery.mixitup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/multi-select/css/multi-select-madmin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/multi-select/js/jquery.multi-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/nouislider/jquery.nouislider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/nouislider/jquery.nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/pageloader/pageloader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/responsive-tabs/responsive-tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/sco.message/sco.message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/sco.message/sco.message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/select2/select2-madmin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/slimScroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/summernote/summernote.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/summernote/summernote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/html2canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/jquery.base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/jspdf/jspdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/jspdf/libs/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/jspdf/libs/sprintf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/tableExport/tableExport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/bootstrap3-editable/css/bootstrap-editable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/bootstrap3-editable/js/bootstrap-editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/demo-mock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/inputs-ext/address/address.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/inputs-ext/address/address.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/inputs-ext/typeaheadjs/lib/typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/inputs-ext/typeaheadjs/typeaheadjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/inputs-ext/wysihtml5/wysihtml5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/jquery.mockjax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/select2/lib/select2-madmin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/test/vendors/x-editable/select2/lib/select2.js" />
+    </list>
+    <ignored path="test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29044834">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../pom.xml" />
+        <option value="$PROJECT_DIR$/../web/index.jsp" />
+        <option value="$PROJECT_DIR$/../test.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="test-cj" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="test-cj" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/workspace/crm_issue#142/crm_issue#142" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Tomcat Server.test">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.63" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="test">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_test_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64376" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="test" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c98da8-db5f-4111-b9a9-2713a8be72af" name="Default" comment="" />
+      <created>1463469402721</created>
+      <option name="number" value="Default" />
+      <updated>1463469402721</updated>
+      <workItem from="1463469403975" duration="1908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28762543" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23968785" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35117057" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17857143" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26421404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../uban-cj.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4915254">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25925925">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.312611">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29044834">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>uban-cj</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

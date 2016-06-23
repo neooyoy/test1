@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>客户管理 | 客户信息修改</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="expires" content="Thu, 19 Nov 1900 08:52:00 GMT">
+    <!-- <link rel="shortcut icon" href="images/icons/favicon.ico"> -->
+    <!-- <link rel="apple-touch-icon" href="images/icons/favicon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/icons/favicon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/icons/favicon-114x114.png"> -->
+
+    <!--Loading bootstrap css-->
+    <link type="text/css" rel="stylesheet" href="vendors/font-awesome/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="vendors/bootstrap/css/bootstrap.min.css">
+
+    <!--Loading style-->
+    <link type="text/css" rel="stylesheet" href="css/themes/style1/white-blue.css" class="default-style">
+    <link type="text/css" rel="stylesheet" href="css/style-responsive.css">
+</head>
+
+<body>
+    <div>
+        <!--BEGIN BACK TO TOP-->
+        <a id="totop" href="#"><i class="fa fa-up"></i></a>
+        <!--END BACK TO TOP-->
+
+        <!--BEGIN TOPBAR-->
+        <div id="header-topbar-option-demo" class="page-header-topbar">
+            <nav id="topbar" role="navigation" style="margin-bottom: 0; z-index: 2;" class="navbar navbar-default navbar-static-top">
+                <div class="navbar-header">
+                    <button type="button" data-toggle="collapse" data-target=".sidebar-collapse" class="navbar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a id="logo" href="index.html" class="navbar-brand">
+                        <span class="fa fa-rocket"></span>
+                        <span class="logo-text">优办房源管理</span>
+                        <span style="display: none" class="logo-text-icon">Uban</span>
+                    </a>
+                </div>
+                <div class="topbar-main">
+                    <a id="menu-toggle" href="#" class="hidden-xs"><i class="fa fa-bars"></i></a>
+                    <ul class="nav navbar navbar-top-links navbar-right mbn">
+                        <li class="dropdown">
+                            <a data-hover="dropdown" href="#" class="dropdown-toggle">
+                                <i class="fa fa-news fa-fw"></i>
+                                <span class="badge badge-red">3</span>
+                            </a>
+                            <ul class="dropdown-menu dropdown-alerts">
+                                <li>
+                                    <p>You have 14 new notifications</p>
+                                </li>
+                                <li>
+                                    <div class="dropdown-slimscroll">
+                                        <ul>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-blue">
+                                                        <i class="fa fa-comment"></i>
+                                                    </span>
+                                                    New Comment
+                                                    <span class="pull-right text-muted small">4 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-violet">
+                                                        <i class="fa fa-twitter"></i>
+                                                    </span>
+                                                    3 New Followers
+                                                    <span class="pull-right text-muted small">12 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-pink">
+                                                        <i class="fa fa-envelope"></i>
+                                                    </span>
+                                                    Message Sent
+                                                    <span class="pull-right text-muted small">15 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-green">
+                                                        <i class="fa fa-tasks"></i>
+                                                    </span>
+                                                    New Task
+                                                    <span class="pull-right text-muted small">18 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-yellow">
+                                                        <i class="fa fa-upload"></i>
+                                                    </span>
+                                                    Server Rebooted
+                                                    <span class="pull-right text-muted small">19 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-green">
+                                                        <i class="fa fa-tasks"></i>
+                                                    </span>
+                                                    New Task
+                                                    <span class="pull-right text-muted small">2 days ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-pink">
+                                                        <i class="fa fa-envelope"></i>
+                                                    </span>
+                                                    Message Sent
+                                                    <span class="pull-right text-muted small">5 days ago</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="last">
+                                    <a href="extra-user-list.html" class="text-right">See all alerts</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown topbar-user">
+                            <a data-hover="dropdown" href="#" class="dropdown-toggle">
+                                <i class="fa fa-personalCenter"></i>&nbsp;
+                                <span class="hidden-xs">张林</span>
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu dropdown-user pull-right">
+                                <li><a href="#"><i class="fa"></i>退出</a>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!--END TOPBAR-->
+        <div id="wrapper" class="model">
+            <!--BEGIN SIDEBAR MENU-->
+            <nav id="sidebar" role="navigation" class="navbar-default navbar-static-side">
+                <div class="sidebar-collapse menu-scroll">
+                    <ul id="side-menu" class="nav">
+                        <li>
+                            <a href="index.html">
+                                <i class="fa fa-property fa-fw">
+                                    <div class="icon-bg bg-orange"></div>
+                                </i>
+                                <span class="menu-title">楼盘管理</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="page-contact.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">楼盘管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">楼盘调查</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">楼盘拓展</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">预备楼盘管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-fangyuan fa-fw">
+                                    <div class="icon-bg bg-orange"></div>
+                                </i>
+                                <span class="menu-title">房源管理</span>
+                                <span class="fa arrow"></span>
+                                <!-- <span class="label label-violet">v4.0</span> -->
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="page-fangyuan.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">待租房源管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="frontend-one-page.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">已关闭房源管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="frontend-one-page.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">预备房源管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="frontend-one-page.html">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">房源审核</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-customerService fa-fw">
+                                    <div class="icon-bg bg-pink"></div>
+                                </i>
+                                <span class="menu-title">客服系统</span>
+                                <span class="fa arrow"></span>
+                                <!-- <span class="label label-yellow">v3.0</span> -->
+                            </a>
+                        </li>
+                        <li class="active">
+                            <a href="#">
+                                <i class="fa fa-customer fa-fw">
+                                    <div class="icon-bg bg-pink"></div>
+                                </i>
+                                <span class="menu-title">客户管理</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li class="active">
+                                    <span class="circular-mark"></span>
+                                    <a href="page-customer.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问客户管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">客户公海</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">无效客户管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">已丢失的客户</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">优办成交客户</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-adviser fa-fw">
+                                    <div class="icon-bg bg-green"></div>
+                                </i>
+                                <span class="menu-title">顾问系统</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="page-adviser.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">员工日报管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">滴滴预约结果查看</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问报单查询</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">培训视频维护</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问培训查询</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">员工虚拟电话匹配</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问评分后台查询</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-reportDetails fa-fw"><div class="icon-bg bg-green"></div></i>
+                                <span class="menu-title">报表管理</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-report fa-fw"><div class="icon-bg bg-violet"></div></i>
+                                <span class="menu-title">报单系统</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-network fa-fw"><div class="icon-bg bg-blue"></div></i>
+                                <span class="menu-title">创业办公</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <!--END SIDEBAR MENU-->
+            
+            <!--BEGIN PAGE WRAPPER-->
+            <div id="page-wrapper">
+                <!--BEGIN TITLE & BREADCRUMB PAGE-->
+                <div id="title-breadcrumb-option-demo" class="page-title-breadcrumb">
+                    <div class="page-header pull-left">
+                        <div class="page-title">客户管理</div>
+                    </div>
+                    <ol class="breadcrumb page-breadcrumb">
+                        <li><i class="fa fa-home"></i>&nbsp;<a href="index.html">Home</a>&nbsp;&nbsp;<i class="fa fa-right"></i>&nbsp;&nbsp;</li><li><a href="#">客户管理</a>&nbsp;&nbsp;<i class="fa fa-right"></i>&nbsp;&nbsp;</li><li class="active">顾问客户管理</li>
+                    </ol>
+                    <div class="btn btn-blue reportrange hide">
+                        <i class="fa fa-calendar"></i>&nbsp;<span></span>&nbsp;report&nbsp;<i class="fa fa-angle-down"></i>
+                        <input type="hidden" name="datestart" />
+                        <input type="hidden" name="endstart" />
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <!--END TITLE & BREADCRUMB PAGE-->
+
+                <!--BEGIN CONTENT-->
+                <div class="page-content">
+                    <form role="form" method="get" action="">
+                        <div class="panel">
+                            <div class="panel-heading">
+                                客户资料
+                            </div>
+                            <div class="panel-body">
+                                <div class="form-inline">
+                                    <div class="form-group fix-width-280">
+                                        <label>客户ID：</label>
+                                        10086
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>客户电话：</label>
+                                        13900000000
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>客户来源：</label>
+                                        赶集网
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group fix-width-280">
+                                        <label>客户姓名<span class="text-red">*</span>：</label>
+                                        <input type="text" class="form-control" />
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>客户性别<span class="text-red">*</span>：</label>
+                                        <div class="radio-box">
+                                            <span><input type="radio" value="0" name="sex" checked="checked"><label name="男" class="checked">男</label></span>
+                                            <span><input type="radio" value="1" name="sex"><label name="女">女</label></span>
+                                        </div>
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>客户等级：</label>
+                                        <select name="cityid" id="cityidSelect" class="form-control">
+                                            <option value="0" selected disabled class="hide"></option>
+                                            <option value="0">全部</option>
+                                            <option value="12">一级</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group fix-width-280">
+                                        <label>客户行业<span class="text-red">*</span>：</label>
+                                        <select name="cityid" id="cityidSelect" class="form-control">
+                                            <option value="0"  disabled class="hide">--请选择--</option>
+                                            <option value="0">全部</option>
+                                            <option value="12" selected>教育、培训类</option>
+                                            <option value="13">互联网</option>
+                                            <option value="17">金融 </option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>客户公司<span class="text-red visibility-hidden">*</span>：</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>客户职位<span class="text-red visibility-hidden">*</span>：</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group fix-width-280">
+                                        <label>同公司联系人：</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>同公司联系电话<span class="text-red visibility-hidden">*</span>：</label>
+                                        <input type="number" class="form-control">
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>同公司联系人性别：</label>
+                                        <div class="radio-box">
+                                            <span><input type="radio" value="0" name="sex" checked="checked"><label name="男" class="checked">男</label></span>
+                                            <span><input type="radio" value="1" name="sex"><label name="女">女</label></span>
+                                        </div>
+                                    </div>
+                                    <div class="form-group fix-width-280">
+                                        <label>同公司联系人职位：</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="page-content">
+                    <form role="form" method="get" action="">
+                        <div class="panel">
+                            <div class="panel-heading">
+                                客户意向
+                            </div>
+                            <div class="panel-body">
+                                <div class="form-inline">
+                                    <div class="form-group margin-right0">
+                                        <label><span class="cal-group-title">意向商圈</span><span class="text-red">*</span>：</label>
+                                    </div>
+                                    <div class="form-group">
+                                        <select name="cityid" id="cityidSelect" class="form-control margin-right05">
+                                            <option value="0" selected disabled class="hide">教育、培训类</option>
+                                            <option value="0">全部</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <select name="cityid" id="cityidSelect" class="form-control margin-right05">
+                                            <option value="0" selected disabled class="hide">教育、培训类</option>
+                                            <option value="0">全部</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <select name="cityid" id="cityidSelect" class="form-control">
+                                            <option value="0" selected disabled class="hide">教育、培训类</option>
+                                            <option value="0">全部</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group">
+                                        <label><span class="cal-group-title">具体位置</span><span class="text-red visibility-hidden">*</span>：</label>
+                                        <input type="text" class="form-control fix-width-456">
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group">
+                                        <label><span class="cal-group-title">面积</span><span class="text-red">*</span>：</label>
+                                        <input type="number" class="form-control margin-right05">
+                                        至
+                                        <input type="number" class="form-control margin-left05 margin-right10">
+                                        平米
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group">
+                                        <label><span class="cal-group-title">租金</span><span class="text-red">*</span>：</label>
+                                        <input type="number" class="form-control margin-right05">
+                                        至
+                                        <input type="number" class="form-control margin-left05">
+                                        <select name="rent-money" id="rent-money" class="form-control">
+                                            <option value="0" selected>元/天/平米</option>
+                                            <option value="1">元/月</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group">
+                                        <label><span class="cal-group-title">入住需求</span><span class="text-red visibility-hidden">*</span>：</label>
+                                        <input type="text" class="form-control fix-width-456">
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group">
+                                        <label class="pull-left margin-right10"><span class="cal-group-title">其他需求</span><span class="text-red visibility-hidden">*</span>：</label>
+                                        <textarea class="textarea-con" onpropertychange="this.style.height = this.scrollHeight + 'px';" oninput="this.style.height = this.scrollHeight + 'px';"></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-inline">
+                                    <div class="form-group">
+                                        <label class="pull-left margin-right10"><span class="cal-group-title">备注</span><span class="text-red">*</span>：</label>
+                                        <textarea class="textarea-con" onpropertychange="this.style.height = this.scrollHeight + 'px';" oninput="this.style.height = this.scrollHeight + 'px';"></textarea>
+                                    </div>
+                                </div>
+                                <a href="#" class="btn btn-info btn-custom btn-hold margin-right10">保&nbsp;&nbsp;存</a>
+                                <a href="#" class="btn btn-default btn-cancel margin-left10">返&nbsp;&nbsp;回</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!--END CONTENT-->
+            </div>
+            <!--END PAGE WRAPPER-->
+        </div>
+    </div>
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <!--loading bootstrap js-->
+    <script src="vendors/bootstrap/js/bootstrap.min.js"></script>
+    <script src="vendors/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js"></script>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <script src="vendors/metisMenu/jquery.metisMenu.js"></script>
+    <script src="vendors/slimScroll/jquery.slimscroll.js"></script>
+    <script src="vendors/jquery-cookie/jquery.cookie.js"></script>
+    <script src="vendors/iCheck/custom.min.js"></script>
+    <script src="vendors/jquery-notific8/jquery.notific8.min.js"></script>
+    <script src="vendors/jquery-highcharts/highcharts.js"></script>
+    <script src="js/jquery.menu.js"></script>
+    <script src="vendors/jquery-pace/pace.min.js"></script>
+    <script src="vendors/holder/holder.js"></script>
+    <script src="vendors/responsive-tabs/responsive-tabs.js"></script>
+    <script src="vendors/jquery-news-ticker/jquery.newsTicker.min.js"></script>
+    <script src="vendors/moment/moment.js"></script>
+    <script src="vendors/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+    <script src="vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <!--CORE JAVASCRIPT-->
+    <script src="js/main.js"></script>
+    <script type="text/javascript">
+            $(function(){
+                var cho;
+                $(".radio-box label.checkbox").click(function(){
+                    var radioId = $(this).attr("name");
+                    cho = !cho;
+                    if(cho){
+                        $(this).addClass("checked");
+                        $(this).parent().find("input[type='checkbox']").attr("checked","checked");
+                    }else{
+                        $(this).removeClass("checked");
+                        $(this).parent().find("input[type='checkbox']").removeAttr("checked");
+                    }
+                });
+
+                $(".radio-box label").click(function(){
+                    var radioId = $(this).attr("name");
+                    $(this).parent().siblings().find("label").removeAttr("class") && $(this).attr("class","checked");
+                    $(this).parent().siblings().find("input[type='radio']").removeAttr("checked") && $(this).parent().find("input[type='radio']").attr("checked","checked");
+                })
+            })
+        </script>
+</body>
+</html>

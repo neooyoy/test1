@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>顾问系统 | 员工日报管理</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="expires" content="Thu, 19 Nov 1900 08:52:00 GMT">
+    <!-- <link rel="shortcut icon" href="images/icons/favicon.ico"> -->
+    <!-- <link rel="apple-touch-icon" href="images/icons/favicon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/icons/favicon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/icons/favicon-114x114.png"> -->
+
+    <!--Loading bootstrap css-->
+    <link type="text/css" rel="stylesheet" href="vendors/font-awesome/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="vendors/bootstrap/css/bootstrap.min.css">
+
+    <!--Loading style-->
+    <link type="text/css" rel="stylesheet" href="css/themes/style1/white-blue.css" class="default-style">
+    <link type="text/css" rel="stylesheet" href="css/style-responsive.css">
+</head>
+
+<body>
+    <div>
+        <!--BEGIN BACK TO TOP-->
+        <a id="totop" href="#"><i class="fa fa-up"></i></a>
+        <!--END BACK TO TOP-->
+
+        <!--BEGIN TOPBAR-->
+        <div id="header-topbar-option-demo" class="page-header-topbar">
+            <nav id="topbar" role="navigation" style="margin-bottom: 0; z-index: 2;" class="navbar navbar-default navbar-static-top">
+                <div class="navbar-header">
+                    <button type="button" data-toggle="collapse" data-target=".sidebar-collapse" class="navbar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a id="logo" href="index.html" class="navbar-brand">
+                        <span class="fa fa-rocket"></span>
+                        <span class="logo-text">优办房源管理</span>
+                        <span style="display: none" class="logo-text-icon">Uban</span>
+                    </a>
+                </div>
+                <div class="topbar-main">
+                    <a id="menu-toggle" href="#" class="hidden-xs"><i class="fa fa-bars"></i></a>
+                    <ul class="nav navbar navbar-top-links navbar-right mbn">
+                        <li class="dropdown">
+                            <a data-hover="dropdown" href="#" class="dropdown-toggle">
+                                <i class="fa fa-news fa-fw"></i>
+                                <span class="badge badge-red">3</span>
+                            </a>
+                            <ul class="dropdown-menu dropdown-alerts">
+                                <li>
+                                    <p>You have 14 new notifications</p>
+                                </li>
+                                <li>
+                                    <div class="dropdown-slimscroll">
+                                        <ul>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-blue">
+                                                        <i class="fa fa-comment"></i>
+                                                    </span>
+                                                    New Comment
+                                                    <span class="pull-right text-muted small">4 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-violet">
+                                                        <i class="fa fa-twitter"></i>
+                                                    </span>
+                                                    3 New Followers
+                                                    <span class="pull-right text-muted small">12 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-pink">
+                                                        <i class="fa fa-envelope"></i>
+                                                    </span>
+                                                    Message Sent
+                                                    <span class="pull-right text-muted small">15 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-green">
+                                                        <i class="fa fa-tasks"></i>
+                                                    </span>
+                                                    New Task
+                                                    <span class="pull-right text-muted small">18 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-yellow">
+                                                        <i class="fa fa-upload"></i>
+                                                    </span>
+                                                    Server Rebooted
+                                                    <span class="pull-right text-muted small">19 mins ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-green">
+                                                        <i class="fa fa-tasks"></i>
+                                                    </span>
+                                                    New Task
+                                                    <span class="pull-right text-muted small">2 days ago</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="extra-user-list.html" target="_blank">
+                                                    <span class="label label-pink">
+                                                        <i class="fa fa-envelope"></i>
+                                                    </span>
+                                                    Message Sent
+                                                    <span class="pull-right text-muted small">5 days ago</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="last">
+                                    <a href="extra-user-list.html" class="text-right">See all alerts</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown topbar-user">
+                            <a data-hover="dropdown" href="#" class="dropdown-toggle">
+                                <i class="fa fa-personalCenter"></i>&nbsp;
+                                <span class="hidden-xs">张林</span>
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu dropdown-user pull-right">
+                                <li><a href="#"><i class="fa"></i>退出</a>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!--END TOPBAR-->
+        <div id="wrapper" class="model">
+            <!--BEGIN SIDEBAR MENU-->
+            <nav id="sidebar" role="navigation" class="navbar-default navbar-static-side">
+                <div class="sidebar-collapse menu-scroll">
+                    <ul id="side-menu" class="nav">
+                        <li>
+                            <a href="index.html">
+                                <i class="fa fa-property fa-fw">
+                                    <div class="icon-bg bg-orange"></div>
+                                </i>
+                                <span class="menu-title">楼盘管理</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="page-contact.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">楼盘管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">楼盘调查</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">楼盘拓展</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">预备楼盘管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-fangyuan fa-fw">
+                                    <div class="icon-bg bg-orange"></div>
+                                </i>
+                                <span class="menu-title">房源管理</span>
+                                <span class="fa arrow"></span>
+                                <!-- <span class="label label-violet">v4.0</span> -->
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="page-fangyuan.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">待租房源管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="frontend-one-page.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">已关闭房源管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="frontend-one-page.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">预备房源管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="frontend-one-page.html">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">房源审核</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-customerService fa-fw">
+                                    <div class="icon-bg bg-pink"></div>
+                                </i>
+                                <span class="menu-title">客服系统</span>
+                                <span class="fa arrow"></span>
+                                <!-- <span class="label label-yellow">v3.0</span> -->
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-customer fa-fw">
+                                    <div class="icon-bg bg-pink"></div>
+                                </i>
+                                <span class="menu-title">客户管理</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li class="acitve">
+                                    <span class="circular-mark"></span>
+                                    <a href="page-customer.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问客户管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">客户公海</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">无效客户管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">已丢失的客户</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">优办成交客户</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="active">
+                            <a href="#">
+                                <i class="fa fa-adviser fa-fw">
+                                    <div class="icon-bg bg-green"></div>
+                                </i>
+                                <span class="menu-title">顾问系统</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                            <ul class="nav nav-second-level">
+                                <li class="active">
+                                    <span class="circular-mark"></span>
+                                    <a href="page-adviser.html">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">员工日报管理</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">滴滴预约结果查看</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问报单查询</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">培训视频维护</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问培训查询</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">员工虚拟电话匹配</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <span class="circular-mark"></span>
+                                    <a href="#">
+                                        <div  class="content-box">
+                                            <!-- <i class="fa fa-rocket"></i> -->
+                                            <span class="submenu-title">顾问评分后台查询</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-reportDetails fa-fw"><div class="icon-bg bg-green"></div></i>
+                                <span class="menu-title">报表管理</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-report fa-fw"><div class="icon-bg bg-violet"></div></i>
+                                <span class="menu-title">报单系统</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-network fa-fw"><div class="icon-bg bg-blue"></div></i>
+                                <span class="menu-title">创业办公</span>
+                                <span class="fa arrow"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <!--END SIDEBAR MENU-->
+            
+            <!--BEGIN PAGE WRAPPER-->
+            <div id="page-wrapper">
+                <!--BEGIN TITLE & BREADCRUMB PAGE-->
+                <div id="title-breadcrumb-option-demo" class="page-title-breadcrumb">
+                    <div class="page-header pull-left">
+                        <div class="page-title">顾问系统</div>
+                    </div>
+                    <ol class="breadcrumb page-breadcrumb">
+                        <li><i class="fa fa-home"></i>&nbsp;<a href="index.html">Home</a>&nbsp;&nbsp;<i class="fa fa-right"></i>&nbsp;&nbsp;</li><li><a href="#">顾问系统</a>&nbsp;&nbsp;<i class="fa fa-right"></i>&nbsp;&nbsp;</li><li class="active">员工日报管理</li>
+                    </ol>
+                    <div class="btn btn-blue reportrange hide">
+                        <i class="fa fa-calendar"></i>&nbsp;<span></span>&nbsp;report&nbsp;<i class="fa fa-angle-down"></i>
+                        <input type="hidden" name="datestart" />
+                        <input type="hidden" name="endstart" />
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <!--END TITLE & BREADCRUMB PAGE-->
+
+                <div class="text-red mam pull-right"><img src="http://tower.test.corp.uban.com/static/image/warning-pic.png" alt="" class="mrs">请在30分钟内跟进客户，否则客户将流转至公客池供其他顾问跟进！</div>
+                <!--BEGIN CONTENT-->
+                <div class="page-content mtm">
+                    <div class="panel">
+                        <div class="panel-heading">
+                            客户信息
+                            <a href="#myModal-didi" class="font-14 text-blue pull-right" data-toggle="modal">滴滴预约</a>
+                            <a href="#" class="font-14 text-blue pull-right">申请报单</a>
+                            <a href="#myModal-invalid" class="font-14 text-blue pull-right" data-toggle="modal">设为无效客户</a>
+                            <a href="#" class="font-14 text-blue pull-right">修改客户</a>
+                        </div>
+                        <div class="panel-body">
+                            <div class="form-inline">
+                                <div class="form-group fix-width-280">
+                                    <span class="margin-right10">张三三</span>
+                                    <span class="margin-right10">13800000000</span>
+                                    <span>10086</span>
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <span class="margin-right20">
+                                        <label class="color-gray9">客户等级：</label>
+                                        A
+                                    </span>
+                                    <span>
+                                        <label class="color-gray9">性别：</label>
+                                        男
+                                    </span>
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">行业：</label>
+                                    教育、培训类
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">公司：</label>
+                                    新东方有效教育集团
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">职位：</label>
+                                    外语教学组总管经理
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">面积：</label>
+                                    100.00-200.00㎡
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">入住时间：</label>
+                                    2016年01月22日
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">预算：</label>
+                                    (单价)5.00-6.00元/天/㎡
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    (总价)15000.00-20000.00元/月
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">来源：</label>
+                                    主站注册
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">意向商圈：</label>
+                                    北京市海淀区中关村
+                                </div>
+                                <div class="form-group">
+                                    <label class="color-gray9">具体位置：</label>
+                                    海淀区理想国际大厦附近，靠近北四环
+                                </div>
+                            </div>
+                            <div class="form-inline">
+                                <div class="form-group">
+                                    <label class="color-gray9">其他需求：</label>
+                                    客户主要在中关村选址，但是在望京区域也可以接受。
+                                </div>
+                            </div>
+                            <div class="form-inline">
+                                <div class="form-group">
+                                    <label class="color-gray9">备注：</label>
+                                    客户很好说话，对大楼品质有很高的要求，只要互联网集群的办公室，看中了望京SOHO。要求最好在中关村或者望京区域选址。
+                                </div>
+                            </div>
+                        </div>
+                        <hr class="margin-top0 margin-bottom0">
+                        <div class="panel-body">
+                            <div class="form-inline">
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">同公司联系人：</label>
+                                    周小姐
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    13900000000
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">性别：</label>
+                                    女
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">职位：</label>
+                                    秘书
+                                </div>
+                            </div>
+                            <div class="form-inline">
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">客户录入人：</label>
+                                    周诗雨
+                                </div>
+                                <div class="form-group fix-width-280">
+                                    <label class="color-gray9">客户归属人：</label>
+                                    周诗雨
+                                </div>
+                                <div class="form-group">
+                                    <a href="#myModal-customer" class="btn btn-default" data-toggle="modal">
+                                        <!-- <i class="fa fa-search"></i> -->
+                                        调整客户归属
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                
+
+                <div class="text-red mam pull-right"><img src="http://tower.test.corp.uban.com/static/image/warning-pic.png" alt="" class="mrs">该客户为优办主站预约看房客户，请及时处理预约看房带看！</div>
+                <div class="page-content">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#tab1" data-toggle="tab">预约看房</a></li>
+                        <li><a href="#tab2" data-toggle="tab">跟进记录</a></li>
+                        <li><a href="#tab3" data-toggle="tab">带看记录<span class="text-red">（1）</span></a></li>
+                        <a href="#" class="font-14 text-blue pull-right mlm margin-right15" style="margin-top:6px;">添加带看</a>
+                        <a href="#myModal-followUp" class="font-14 text-blue pull-right margin-right15" data-toggle="modal" style="margin-top:6px;">添加跟进</a>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="tab1">
+                            <table class="table table-hover table-advanced tablesorter" style="background-color:#fff">
+                                <tbody>
+                                    <tr>
+                                        <th>约看时间</th>
+                                        <th>带看房源</th>
+                                        <th>带看状态</th>
+                                        <th>操作</th>
+                                    </tr>
+                                    <tr>
+                                        <td style="white-space: nowrap;">2016年02月23日<span class="margin-left05">14:00:00</span></td>
+                                        <td class="text-blue">望京SOHO</td>
+                                        <td class="text-red">未完成</td>
+                                        <td>
+                                            <a href="#myModal-successSee" data-toggle="modal" class="btn btn-default">完成带看</a>
+                                            <a href="#myModal-closeSee" class="btn btn-default" data-toggle="modal">关闭带看</a>
+                                        </td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016年02月23日<span class="margin-left05">14:00:00</span></td>
+                                        <td class="text-blue">望京SOHO</td>
+                                        <td class="text-red">未完成</td>
+                                        <td>
+                                            <a href="#myModal-successSee" data-toggle="modal" class="btn btn-default">完成带看</a>
+                                            <a href="#myModal-closeSee" class="btn btn-default" data-toggle="modal">关闭带看</a>
+                                        </td> 
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="tab-pane" id="tab2">
+                            <table class="table table-hover table-advanced tablesorter" style="background-color:#fff">
+                                <tbody>
+                                    <tr>
+                                        <th>跟进时间</th>
+                                        <th>跟进人</th>
+                                        <th>操作</th>
+                                        <th>操作详情</th>
+                                    </tr>
+                                    <tr>
+                                        <td style="white-space: nowrap;">2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李隆基</td>
+                                        <td>添加跟进</td>
+                                        <td>跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李渊</td>
+                                        <td>添加跟进</td>
+                                        <td>跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李白</td>
+                                        <td>添加跟进</td>
+                                        <td>跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李渊</td>
+                                        <td>添加跟进</td>
+                                        <td>跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李渊</td>
+                                        <td>添加跟进</td>
+                                        <td>跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录跟进记录</td> 
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="table-actions">
+                                <a href="#" class="btn btn-default margin-left10">上一页</a>
+                                <a href="#" class="btn btn-default margin-left10">下一页</a>
+                                <span class="margin-left10">共15条跟进记录</span>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab3">
+                            <table class="table table-hover table-advanced tablesorter" style="background-color:#fff">
+                                <tbody>
+                                    <tr>
+                                        <th>带看时间</th>
+                                        <th>确认时间</th>
+                                        <th>带看人</th>
+                                        <th>带看房源</th>
+                                        <th>带看状态</th>
+                                        <th>操作</th>
+                                        <th>带看记录</th>
+                                    </tr>
+                                    <tr>
+                                        <td style="white-space: nowrap;">2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李隆基</td>
+                                        <td>望京SOHO</td>
+                                        <td class="text-red">未完成</td>
+                                        <td>
+                                            <a href="#myModal-successSee" data-toggle="modal" class="btn btn-default">完成带看</a>
+                                            <a href="#myModal-closeSee" class="btn btn-default" data-toggle="modal">关闭带看</a>
+                                        </td>
+                                        <td>记录</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李白</td>
+                                        <td>丹棱SOHO</td>
+                                        <td class="text-red">未完成</td>
+                                        <td>
+                                            <a href="#myModal-successSee" data-toggle="modal" class="btn btn-default">完成带看</a>
+                                            <a href="#myModal-closeSee" class="btn btn-default" data-toggle="modal">关闭带看</a>
+                                        </td>
+                                        <td>客户意向非常大</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李世民</td>
+                                        <td>建外SOHO</td>
+                                        <td>已关闭</td>
+                                        <td></td>
+                                        <td>客户取消预约了，因为他要换地方，去望京SOHO</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李渊</td>
+                                        <td>融科橄榄中心</td>
+                                        <td>已经完成</td>
+                                        <td></td>
+                                        <td>无意向</td> 
+                                    </tr>
+                                    <tr>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>2016.02.02<span class="margin-left05">14:00:00</span></td>
+                                        <td>李小明</td>
+                                        <td>绿地新都会绿地启航国际</td>
+                                        <td>已经完成</td>
+                                        <td></td>
+                                        <td>记录</td> 
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="table-actions">
+                                <a href="#" class="btn btn-default margin-left10">上一页</a>
+                                <a href="#" class="btn btn-default margin-left10">下一页</a>
+                                <span class="margin-left10">共15条跟进记录</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--END CONTENT-->
+            </div>
+            <!--END PAGE WRAPPER-->
+
+            <!-- modal begin -->
+            <!-- 设为无效客户 -->
+            <div class="modal fade" id="myModal-invalid" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    设为无效客户
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="false">
+                                        ×
+                                    </button>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="form-inline">
+                                        <div class="form-group modal-open">
+                                            <label class="pull-left">无效原因<span class="text-red">*</span>：</label>
+                                            <select class="form-control deptSelect inp fix-width-one pull-left" level="1" id="Sel-invalid" onchange="moreInvalid()">
+                                                <option value="0" selected disabled style="display: none"></option>
+                                                <option value="1">房源不存在</option>
+                                                <option value="2">已和其他中介成交</option>
+                                                <option value="3">业主信息错误</option>
+                                                <option value="4">房源录入重复</option>
+                                                <option value="5">其他</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-inline moreInvalidDiv hide">
+                                        <div class="form-group modal-open">
+                                            <label class="pull-left"><span class="cal-group-title">中介名称</span><span class="text-red visibility-hidden">*</span>：</label>
+                                            <input type="text" class="form-control fix-width-one" />
+                                        </div>
+                                    </div>
+                                    <div class="form-inline moreInvalidDiv hide">
+                                        <div class="form-group modal-open">
+                                            <label class="pull-left"><span class="cal-group-title">合作时间</span><span class="text-red visibility-hidden">*</span>：</label>
+                                            <input type="date" class="form-control fix-width-one" />
+                                        </div>
+                                    </div>
+                                    <div class="form-inline moreInvalidDiv hide">
+                                        <div class="form-group modal-open">
+                                            <label class="pull-left"><span class="cal-group-title text-right">至</span><span class="text-red visibility-hidden">*</span>：</label>
+                                            <input type="date" class="form-control fix-width-one" />
+                                        </div>
+                                    </div>
+                                    <div class="form-inline">
+                                        <div class="form-group modal-open">
+                                            <label class="pull-left"><span class="cal-group-title">备注</span><span class="text-red">*</span>：</label>
+                                            <textarea onpropertychange="this.style.height = this.scrollHeight + 'px';" oninput="this.style.height = this.scrollHeight + 'px';" class="col-xs-12 fix-width-one" style="max-width:100%; height: 100px;"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="form-inline text-center mtm">
+                                        <button type="button" value="设为无效" class="btn btn-default" style="width:150px;">设为无效</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 滴滴预约 -->
+            <div class="modal fade" id="myModal-didi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    滴滴预约
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="false">
+                                        ×
+                                    </button>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="form-inline">
+                                        <div class="form-group fix-width">
+                                            <label>客户姓名：</label>
+                                            张三
+                                        </div>
+                                        <div class="form-group fix-width">
+                                            <label>客户电话：</label>
+                                            138000000000
+                                        </div>
+                                    </div>
+                                    <div class="form-inline">
+                                        <div class="form-group fix-width">
+                                            <label>用车时间<span class="text-red">*</span>：</label>
+                                            <input type="date" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="form-inline">
+                                        <div class="form-group fix-width">
+                                            <label><span class="cal-group-title">起点</span><span class="text-red">*</span>：</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                        <div class="form-group fix-width">
+                                            <label><span class="cal-group-title">终点</span><span class="text-red">*</span>：</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="form-inline text-center mtm">
+                                        <button type="button" value="申请预约" class="btn btn-default" style="width:150px;">申请预约</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 调整用户归属 -->
+            <div class="modal fade" id="myModal-customer" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    客户信息
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="false">
+                                        ×
+                                    </button>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="form-inline">
+                                        <div class="form-group">
+                                            <label>当前归属人：</label>
+                                            周诗雨
+                                        </div>
+                                    </div>
+                                    <div class="form-inline">
+                                        <div class="form-group">
+                                            <label>请选择该客户新的归属人：</label>
+                                        </div>
+                                        <div id="select" class="form-inline form-group">
+                                            <div class="form-group" id="selectdiv">
+                                                <select class="form-control deptSelect inp" level="1">
+                                                    <option value="" selected disabled style="display: none">选择部门</option>
+                                                    <option value="">全部</option>
+                                                    <option value="97" selected>业务中心</option>
+                                                    <option value="182">大客户部</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group" id="">
+                                                <select class="form-control deptSelect inp" level="1">
+                                                    <option value="" disabled style="display: none">选择部门</option>
+                                                    <option value="">全部</option>
+                                                    <option value="97" selected>北京业务中心</option>
+                                                    <option value="182">大客户部</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group" id="">
+                                                <select class="form-control deptSelect inp" level="1">
+                                                    <option value="" disabled style="display: none">选择部门</option>
+                                                    <option value="">全部</option>
+                                                    <option value="97" selected>国贸大区</option>
+                                                    <option value="182">大客户部</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group" id="">
+                                                <select class="form-control deptSelect inp" level="1">
+                                                    <option value="" disabled style="display: none">选择部门</option>
+                                                    <option value="">全部</option>
+                                                    <option value="97" selected>国贸一区</option>
+                                                    <option value="182">大客户部</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group" id="">
+                                                <select class="form-control deptSelect inp" level="1">
+                                                    <option value="" disabled style="display: none">选择部门</option>
+                                                    <option value="">全部</option>
+                                                    <option value="97" selected>一组</option>
+                                                    <option value="182">大客户部</option>
+                                                </select>
+                                            </div>
+                                            <div class="form-group" id="">
+                                                <select class="form-control deptSelect inp" level="1">
+                                                    <option value="" disabled style="display: none">选择部门</option>
+                                                    <option value="">全部</option>
+                                                    <option value="97" selected>李四</option>
+                                                    <option value="182">大客户部</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-inline text-center">
+                                        <button type="button" value="确认调整" class="btn btn-default" style="width:150px;">确认调整</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 添加跟进 -->
+            <div class="modal fade" id="myModal-followUp" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    添加跟进
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="false">
+                                        ×
+                                    </button>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="form-inline">
+                                        <div class="form-group fix-width">
+                                            <label>客户姓名：</label>
+                                            张三
+                                        </div>
+                                        <div class="form-group fix-width">
+                                            <label>客户电话：</label>
+                                            138000000000
+                                        </div>
+                                    </div>
+                                    <div class="form-inline">
+                                        <div class="form-group fix-width">
+                                            <label>客户公司：</label>
+                                            新东方有限教育集团
+                                        </div>
+                                        <div class="form-group fix-width">
+                                            <label>客户职位：</label>
+                                            外语教学组总管经理
+                                        </div>
+                                    </div>
+                                    <div class="form-inline modal-open">
+                                        <label>跟进记录<span class="text-red">*</span>：</label>
+                                        <textarea onpropertychange="this.style.height = this.scrollHeight + 'px';" oninput="this.style.height = this.scrollHeight + 'px';" class="col-sm-12 col-xs-12" style="max-width:100%; height: 100px;"></textarea>
+                                    </div>
+                                    <div class="form-inline text-center mtm">
+                                        <button type="button" value="添加跟进" class="btn btn-default" style="width:150px;">添加跟进</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 完成带看 -->
+            <div class="modal fade" id="myModal-successSee" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    完成带看
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="false">
+                                        ×
+                                    </button>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="form-inline">
+                                        <div class="form-group">
+                                            <label class="pull-left">带看时间<span class="text-red">*</span>：</label>
+                                            <input type="date" class="form-control fix-width-one">
+                                        </div>
+                                    </div>
+                                    <div class="form-inline modal-open">
+                                        <label class="pull-left">带看记录<span class="text-red">*</span>：</label>
+                                        <textarea onpropertychange="this.style.height = this.scrollHeight + 'px';" oninput="this.style.height = this.scrollHeight + 'px';" class="col-xs-12 fix-width-one" style="max-width:100%; height: 100px;"></textarea>
+                                    </div>
+                                    <div class="form-inline text-center mtm">
+                                        <button type="button" value="完成带看" class="btn btn-default" style="width:150px;">完成带看</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 关闭带看 -->
+            <div class="modal fade" id="myModal-closeSee" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    关闭带看
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="false">
+                                        ×
+                                    </button>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="form-inline modal-open">
+                                        <label class="pull-left">关闭原因<span class="text-red">*</span>：</label>
+                                        <textarea onpropertychange="this.style.height = this.scrollHeight + 'px';" oninput="this.style.height = this.scrollHeight + 'px';" class="col-xs-12 fix-width-one" style="max-width:100%; height: 100px;"></textarea>
+                                    </div>
+                                    <div class="form-inline text-center mtm">
+                                        <button type="button" value="关闭带看" class="btn btn-default" style="width:150px;">关闭带看</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- modal end -->
+        </div>
+    </div>
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <!--loading bootstrap js-->
+    <script src="vendors/bootstrap/js/bootstrap.min.js"></script>
+    <script src="vendors/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js"></script>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <script src="vendors/metisMenu/jquery.metisMenu.js"></script>
+    <script src="vendors/slimScroll/jquery.slimscroll.js"></script>
+    <script src="vendors/jquery-cookie/jquery.cookie.js"></script>
+    <script src="vendors/iCheck/custom.min.js"></script>
+    <script src="vendors/jquery-notific8/jquery.notific8.min.js"></script>
+    <script src="vendors/jquery-highcharts/highcharts.js"></script>
+    <script src="js/jquery.menu.js"></script>
+    <script src="vendors/jquery-pace/pace.min.js"></script>
+    <script src="vendors/holder/holder.js"></script>
+    <script src="vendors/responsive-tabs/responsive-tabs.js"></script>
+    <script src="vendors/jquery-news-ticker/jquery.newsTicker.min.js"></script>
+    <script src="vendors/moment/moment.js"></script>
+    <script src="vendors/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+    <script src="vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <!--CORE JAVASCRIPT-->
+    <script src="js/main.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var cho;
+            $(".radio-box label.checkbox").click(function(){
+                var radioId = $(this).attr("name");
+                cho = !cho;
+                if(cho){
+                    $(this).addClass("checked");
+                    $(this).parent().find("input[type='checkbox']").attr("checked","checked");
+                }else{
+                    $(this).removeClass("checked");
+                    $(this).parent().find("input[type='checkbox']").removeAttr("checked");
+                }
+            });
+
+            $(".radio-box label").click(function(){
+                var radioId = $(this).attr("name");
+                $(this).parent().siblings().find("label").removeAttr("class") && $(this).attr("class","checked");
+                $(this).parent().siblings().find("input[type='radio']").removeAttr("checked") && $(this).parent().find("input[type='radio']").attr("checked","checked");
+            })
+        })
+    </script>
+    <script type="text/javascript">
+        function moreInvalid() {
+            console.log($('#Sel-invalid option:selected').text());
+            if($('#Sel-invalid option:selected').text() == '已和其他中介成交') {
+                $(".moreInvalidDiv").toggleClass('hide');
+            }else {
+                $(".moreInvalidDiv").addClass('hide');
+            }
+        }
+    </script>
+</body>
+</html>

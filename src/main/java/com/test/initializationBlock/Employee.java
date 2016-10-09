@@ -108,6 +108,9 @@ public class Employee implements Comparable{
 class EmployeeSub extends Employee{
     public void test(){
 //        String s = super.age;
+
+        String defaultname = super.defaultName;
+
         String name = super.name;
         String sex = super.sex;
     }

@@ -25,6 +25,8 @@ public class TestReflection{
 
             Method m = Employee.class.getMethod("getName");
 
+            Employee employee1 = (Employee) Class.forName(Employee.class.getName()).newInstance();
+
 
             System.out.println( m.invoke(employee, new Object[]{}) + ", ");
 

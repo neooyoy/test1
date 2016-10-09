@@ -7,7 +7,19 @@ import java.util.Properties;
 
 public class ConfigProperties {
     public static String speed;
-    
+
+    private void test(){
+
+    }
+
+    protected Integer testProtect(){
+        return 1;
+    }
+
+    public String getx(){
+        return "x";
+    }
+
     /**
      * 获取项目所在根路径
      *

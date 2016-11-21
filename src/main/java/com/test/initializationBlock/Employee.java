@@ -53,6 +53,14 @@ public class Employee implements Comparable{
         this.id = nextId;
     }
 
+    public String getSex() {
+        return sex;
+    }
+
+    public void setSex(String sex) {
+        this.sex = sex;
+    }
+
     public Integer getId() {
         return id;
     }

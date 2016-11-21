@@ -1,6 +1,7 @@
 package com.reflection;
 
 import com.test.initializationBlock.Employee;
+import com.test.initializationBlock.Manager;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -15,6 +16,9 @@ import java.lang.reflect.Method;
 public class TestReflection{
     public static void main(String[] args){
         try{
+            Manager manager = new Manager();
+            System.out.println(manager instanceof Employee);
+
             Employee employee =  new Employee("cj", 19, 220);
             Class cl = employee.getClass();
 //            Field f = cl.getDeclaredField("name");
@@ -89,4 +93,14 @@ public class TestReflection{
 
         System.out.println((String)result1);
     }*/
+
+    private void test() throws Exception{
+        Class c1 = Class.forName("Employee");
+        Class c2 = Employee.class;
+        Class c3 = new Employee().getClass();
+
+        Employee e1 = (Employee)c1.newInstance();
+
+
+    }
 }

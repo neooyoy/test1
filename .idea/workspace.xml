@@ -10,85 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2c98da8-db5f-4111-b9a9-2713a8be72af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aspect/Apology.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aspect/ApologyImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aspect/Greeting.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aspect/GreetingAspect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aspect/GreetingAspectNoInject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aspect/GreetingImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/proxy/cglibproxy/Hello.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/proxy/cglibproxy/HelloImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advice/Client.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advice/Greeting.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advice/GreetingAfterAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advice/GreetingAroundAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advice/GreetingBeforeAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advice/GreetingBeforeAndAfterAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advice/GreetingImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advisor/Client.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advisor/GreetingAroundAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/advisor/GreetingImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/introductionadvice/Apology.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/introductionadvice/Client.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/introductionadvice/GreetingIntroAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/scan/Client.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/scan/GreetingAroundAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/scan/GreetingImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/throwadvice/GreetingImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/springaop/throwadvice/GreetingThrowAdvice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aspect/Apology.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aspect/ApologyImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aspect/GreetingAspect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aspect/GreetingAspectNoInject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/proxy/cglibproxy/Hello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/proxy/cglibproxy/HelloImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advice/Greeting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advisor/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advisor/GreetingImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/introductionadvice/Apology.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/introductionadvice/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/introductionadvice/GreetingIntroAdvice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/scan/GreetingAroundAdvice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/scan/GreetingImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/throwadvice/GreetingImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/throwadvice/GreetingThrowAdvice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/aop/spring-aspectj.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/aop/spring-autoproxy-beanname.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/aop/spring-autoproxy-pointcut.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/aop/spring-aspectj.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/aop/spring-autoproxy-beanname.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/aop/spring-autoproxy-pointcut.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/DynamicProxy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/Greeting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/GreetingAfterAdvice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/GreetingAroundAdvice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/GreetingBeforeAdvice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/GreetingBeforeAndAfterAdvice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/GreetingImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/scan/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/scan/GreetingAroundAdvice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/proxy/springaop/scan/GreetingImpl.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/test_war_exploded/WEB-INF/classes/com/test/overriteAndOverload/Shape.class" afterPath="$PROJECT_DIR$/out/artifacts/test_war_exploded/WEB-INF/classes/com/test/overriteAndOverload/Shape.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/proxy/DynamicProxy.class" afterPath="$PROJECT_DIR$/target/classes/com/proxy/DynamicProxy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/proxy/cglibproxy/CGLibProxy.class" afterPath="$PROJECT_DIR$/target/classes/com/proxy/cglibproxy/CGLibProxy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/test/overriteAndOverload/Shape.class" afterPath="$PROJECT_DIR$/target/classes/com/test/overriteAndOverload/Shape.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/proxy/DynamicProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/cglibproxy/CGLibProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/proxy/cglibproxy/CGLibProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/test/overriteAndOverload/Shape.java" afterPath="$PROJECT_DIR$/src/main/java/com/test/overriteAndOverload/Shape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/aop/spring.xml" afterPath="$PROJECT_DIR$/src/main/resources/aop/spring.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/aop/spring.xml" afterPath="$PROJECT_DIR$/target/classes/aop/spring.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/Client.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advice/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/Greeting.java" afterPath="$PROJECT_DIR$/src/main/java/com/aspect/Greeting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/GreetingAfterAdvice.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advice/GreetingAfterAdvice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/GreetingAroundAdvice.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advice/GreetingAroundAdvice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/GreetingBeforeAdvice.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advice/GreetingBeforeAdvice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/GreetingBeforeAndAfterAdvice.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advice/GreetingBeforeAndAfterAdvice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/GreetingImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advice/GreetingImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/scan/Client.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/scan/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/scan/GreetingAroundAdvice.java" afterPath="$PROJECT_DIR$/src/main/java/com/springaop/advisor/GreetingAroundAdvice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/proxy/springaop/scan/GreetingImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/aspect/GreetingImpl.java" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,7 +25,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -1547,7 +1470,7 @@
       <workItem from="1479695130037" duration="1401000" />
       <workItem from="1479724266177" duration="709000" />
       <workItem from="1479777683833" duration="6402000" />
-      <workItem from="1479951956101" duration="12563000" />
+      <workItem from="1479951956101" duration="12598000" />
     </task>
     <task id="LOCAL-00001" summary="20160623">
       <created>1466665829349</created>
@@ -1591,11 +1514,17 @@
       <option name="project" value="LOCAL" />
       <updated>1479808087312</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20161124">
+      <created>1479973937810</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1479973937810</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271185000" />
+    <option name="totallyTimeSpent" value="271220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1686,7 +1615,8 @@
     <MESSAGE value="20161009" />
     <MESSAGE value="20161121" />
     <MESSAGE value="20161122" />
-    <option name="LAST_COMMIT_MESSAGE" value="20161122" />
+    <MESSAGE value="20161124" />
+    <option name="LAST_COMMIT_MESSAGE" value="20161124" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

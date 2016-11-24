@@ -1,8 +1,5 @@
 package com.proxy.cglibproxy;
 
-
-import com.proxy.Hello;
-import com.proxy.HelloImpl;
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;
@@ -27,17 +24,25 @@ public class CGLibProxy implements MethodInterceptor {
 
     @Override
     public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
-//        before();
+        before();
 
         Object result = methodProxy.invokeSuper(o, objects);
 
-//        after();
+        after();
 
         return result;
     }
 
+    private void before() {
+        System.out.println("before");
+    }
+
+    private void after() {
+        System.out.println("after");
+    }
+
     public static void main(String[] args) {
-        Hello helloProxy = CGLibProxy.getInstance().getProxy(HelloImpl.class);
+        Hello helloProxy = (Hello) CGLibProxy.getInstance().getProxy(HelloImpl.class);
         helloProxy.say("jack");
     }
 }

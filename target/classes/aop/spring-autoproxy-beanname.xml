@@ -15,21 +15,21 @@
 
     <!--<aop:aspectj-autoproxy proxy-target-class="true" />-->
 
-    <bean id="greetingImpl" class="com.springaop.scan.GreetingImpl"/>
+    <bean class="org.springframework.aop.framework.autoproxy.BeanNameAutoProxyCreator">
+        <!--只为后缀是"Impl"的bean生成代理-->
+        <property name="beanNames" value="*Impl"/>
 
-    <bean id="greetingAroundAdvice" class="com.springaop.scan.GreetingAroundAdvice"/>
-
-    <bean id="greetingProxy" class="org.springframework.aop.framework.ProxyFactoryBean">
-        <property name="interfaces" value="com.springaop.Greeting"/>
-        <property name="target" value="greetingImpl"/>
+        <!--增强-->
         <property name="interceptorNames" value="greetingAroundAdvice"/>
 
-        <!--拦截器名称（也就是增强类的名称，Spring bean 的 id）-->
-       <!-- <property name="interceptorNames">
-            <list>
-                <value>greetingAroundAdvice</value>
-            </list>
-        </property>-->
+        <!--是否对代理生成策略进行优化-->
+        <!--默认为false;如果该类有接口，就代理接口（使用jdk的动态代理）-->
+        <!--如果没有接口，就代理类（使用cglib动态代理）-->
+
+       <!-- cglib创建代理速度较慢，但是创建后运行的速度非常快；
+        而jdk动态代理正好相反；如果在运行的时候不断用cglib去创建代理，系统的性能会大打折扣；
+        所以加你在系统初始化的时候用cglib去创建代理，并放入spring的applicationContext中已备后用。-->
+        <property name="optimize" value="true"/>
 
     </bean>
 

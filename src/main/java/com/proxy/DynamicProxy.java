@@ -32,12 +32,14 @@ public class DynamicProxy implements InvocationHandler {
 
 
     public static void main(String[] args) {
-        DynamicProxy dynamicProxy = new DynamicProxy(new Hello(){
+        /*DynamicProxy dynamicProxy = new DynamicProxy(new Hello(){
             @Override
             public void say(String name) {
                 System.out.println("hello! " + name);
             }
-        });
+        });*/
+
+        DynamicProxy dynamicProxy = new DynamicProxy(new HelloImpl());
 
         Hello helloProxy = dynamicProxy.getProxy();
         helloProxy.say("jack");

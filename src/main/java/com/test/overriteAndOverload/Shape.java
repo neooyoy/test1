@@ -7,7 +7,7 @@ public class Shape {
     }
 
     //被重写的方法
-    public int getSides(){
+    protected int getSides(){
         return 0;
     }
 

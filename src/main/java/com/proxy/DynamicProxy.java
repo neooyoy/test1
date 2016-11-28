@@ -13,11 +13,11 @@ public class DynamicProxy implements InvocationHandler {
 
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-//        before();
+        before();
 
         Object result = method.invoke(target, args);
 
-//        after();
+        after();
 
         return result;
     }
@@ -28,6 +28,14 @@ public class DynamicProxy implements InvocationHandler {
                 target.getClass().getClassLoader(),
                 target.getClass().getInterfaces(),
                 this);
+    }
+
+    private void before() {
+        System.out.println("before");
+    }
+
+    private void after() {
+        System.out.println("after");
     }
 
 
@@ -43,5 +51,7 @@ public class DynamicProxy implements InvocationHandler {
 
         Hello helloProxy = dynamicProxy.getProxy();
         helloProxy.say("jack");
+
+        helloProxy.say("cj");
     }
 }
